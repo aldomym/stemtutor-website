@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Aldo Mayme" />
+  <meta name="dcterms.date" content="2026-01-02" />
+  <title>4 levels of projectile motion</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+      extensions: ["tex2jax.js"],
+      "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] },
+      tex2jax: { inlineMath: [ ["$", "$"], ["\\(","\\)"] ], displayMath: [ ["$$","$$"], ["\\[", "\\]"] ], processEscapes: true, ignoreClass: "tex2jax_ignore|dno" },
+      TeX: { noUndefined: { attributes: { mathcolor: "red", mathbackground: "#FFEEEE", mathsize: "90%" } } },
+      messageStyle: "none"
+    });
+    </script>    
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js"></script>
+<body>
+<header id="title-block-header">
+<h1 class="title">4 levels of projectile motion</h1>
+<p class="author">Aldo Mayme</p>
+<p class="date">2 January 2026</p>
+</header>
+<a href="index.html">Back to home</a>
+<h1 class="unnumbered" id="abstract">Abstract</h1>
+<p>Inspired by the cooking videos of the format "<span
+class="math inline"><em>n</em></span> levels of [dish]", I’m here
+applying a similar concept to scientific modeling. I will be comparing 4
+levels of projectile motion, from the easiest "textbook" model, which is
+the simplest of all and assumes only constant gravity in a flat Earth,
+to a more complex model taking into account factors like quadratic drag,
+buoyancy, and the Magnus effect.</p>
+<h1 id="level-1-just-constant-gravity-in-a-vacuum">Level 1: just
+constant gravity in a vacuum</h1>
+<p>This is the easiest level of all. It is ubiquitous in all middle and
+high school level textbooks on physics (Serway & Jewett, 2016), and it’s commonly used as a way
+to teach the basic idea of 2D kinematics, and tracking the position as a
+function of time of an object in the <span
+class="math inline">ℝ<sup>2</sup></span> plane using parametric
+equations of the form <span
+class="math inline"><em>x</em> = <em>f</em>(<em>t</em>)</span>, <span
+class="math inline"><em>y</em> = <em>g</em>(<em>t</em>)</span>.
+Considering gravity in the negative <span
+class="math inline"><em>y</em></span> direction to be the only force
+acting on the object, and, as Galileo noticed, if gravity is the only
+force on an object, the mass is not involved in the motion. We assume
+the object is significantly close to Earth’s surface, in which case
+constant gravity in a single direction can be assumed. With all of this
+information, Newton’s second law gives the simple equations <span
+class="math display">$$\begin{align}
+    \ddot{x}=0,
+    \\
+    \ddot{y}=-g
+    \end{align}$$</span> where <span
+class="math inline"><em>g</em> = 9.8 m/s<sup>2</sup></span> is the
+standard Earth surface gravity. These equations are the "trivial" kind
+of ODE, in which simply integrating both sides twice suffices to solve
+them. Assuming the particle begins with initial speed <span
+class="math inline"><em>u</em></span> at the origin, the solutions are
+simply <span class="math display">$$\begin{align}
+x(t) = ut \cos \theta,
+\\
+y(t) = ut\sin \theta - \frac{1}{2}gt^2,
+\end{align}$$</span> where <span class="math inline"><em>θ</em></span>
+is the angle of launch with respect to the horizontal. Eliminating <span
+class="math inline"><em>t</em></span>, the trajectory can be easily
+found to be <span
+class="math display">$$y=x\tan(\theta)-\frac{gx^2}{2u^2\cos^2(\theta)},$$</span>
+which is a parabola, with an inverse "U" shape in the <span
+class="math inline"><em>x</em><em>y</em></span> plane. From this the
+range, the area swept and more can be computed. This case won’t be
+discussed further here, as the reader is most likely familiar with the
+dynamics, which they almost certainly covered in their secondary school
+education. This case is covered with detail in introductory books like
+(Serway & Jewett, 2016) (Knight, 2008).</p>
+<h1 id="level-2-constant-gravity-with-a-linear-drag-force">Level 2:
+constant gravity with a linear drag force</h1>
+<p>Finding a theoretical formula for the drag force is a well-known
+problem in fluid mechanics, that notoriously requires heavy usage of
+experimental and numerical rather than pure analytic methods. However,
+for low Reynolds numbers (<span class="math inline">Re &lt; 1</span>),
+there exists a very simple solution for the drag as a function of the
+speed <span class="math inline"><em>v</em></span> (Acheson, 2005). It is known as <em>Stokes’ law</em>,
+and it is a relation of the form <span
+class="math inline"><em>F</em> = −<em>b</em><em>v</em></span>, where,
+e.g., in the case of a sphere of radius <span
+class="math inline"><em>r</em></span>, <span
+class="math inline"><em>b</em> = 6<em>π</em><em>η</em><em>r</em></span>,
+where <span class="math inline"><em>η</em></span> is the viscosity of
+the medium. This is the most complex case that admits a closed form
+analytical solution (Taylor, 2005). The net force acting on the object in
+this case is <span
+class="math inline"><strong>F</strong> = −<em>m</em><em>g</em><em>ĵ</em> − <em>b</em><strong>v</strong></span>.
+So, resolving the resulting equation of motion into the <span
+class="math inline"><em>x</em></span> and <span
+class="math inline"><em>y</em></span> components gives <span
+class="math display">$$\begin{align}
+        m\ddot{x}=-b\dot{x}
+        \\
+        m\ddot{y}=-mg-b\dot{y}
+    \end{align}$$</span> These equations can be solved through
+separation of variables, or via the general theory of linear constant
+coefficient 2nd order differential equations (Logan, 2015). Either way, the solutions are found to
+be <span class="math display">$$\begin{align}
+        x(t)=\frac{mv_x(0)}{b}(1-e^{-\frac{bt}{m}})
+        \\
+        y(t)=\bigg( \frac{mg}{b} + v_y(0))\bigg
+)\frac{m}{b}(1-e^{-\frac{bt}{m}})-\frac{mgt}{b}.
+    \end{align}$$</span> These solutions imply that the projectile
+travels through a parabola-like curve that becomes steeper as the
+projectile gets closer to the ground. A trajectory equation similar to
+(3) can be found by eliminating <span
+class="math inline"><em>t</em></span> from equations (5), or
+alternatively, via a differential equation (Borghi, 2013): <span
+class="math display">$$y=\frac{v_y(0)+v_{\mathrm{T}}}{v_x(0)}x+\frac{m^2g}{b^2}\ln\bigg(
+1-\frac{mx}{bv_x(0)} \bigg),$$</span> where <span
+class="math inline">$v_\mathrm{T}=\frac{mg}{b}$</span>. In this case,
+there is no general closed form analytical solution for the drag and it
+must be computed either numerically via e.g., Newton’s method, or via
+perturbations (Taylor, 2005).
+This kind of equations should only be used in the physical world to
+model e.g., the motion of a microscopic object like a bactetria. As with
+the previous level, this case won’t be treated much further here, since
+it is a standard problem in undergraduate level textbooks (Taylor, 2005) (Greiner, 2004)</p>
+<h1 id="level-3-constant-gravity-with-a-quadratic-drag-force">Level 3:
+constant gravity with a quadratic drag force</h1>
+<p>We now begin to examine the most realistic models. We’re now entering
+into terrain where there’s no general closed form analytical solution,
+though (Parker, 1977) gives some
+approximate analytical solutions for both the the short and long time
+regimes. I will present some Python code with the numerical
+integrations. In this case, the force acting on the projectile is almost
+the same in the previous section, but with the drag force instead being
+<span
+class="math inline"><strong>F</strong><sub>drag</sub> = −<em>c</em>|<strong>v</strong>|<strong>v</strong></span>.
+In vector form, thus, the equations take the form <span
+class="math display">$$m\ddot{\mathbf{r}}=-mg\hat{j}-c|\dot{\mathbf{r}}|\dot{\mathbf{r}}.$$</span>
+Which in terms of components, turns into <span
+class="math display">$$\begin{align}
+    m\ddot{x}=-c\dot{x}\sqrt{\dot{x}^2+\dot{y}^2}
+    \\
+    m\ddot{y}=-mg-c\dot{y}\sqrt{\dot{x}^2+\dot{y}^2}.
+    \end{align}$$</span> These equations are now coupled and non-linear,
+making a general closed form analytical solution impossible. Highly
+accurate approximations for the maximum height, arrival time, and flight
+range are given in (Turkyilmazoglu, 2016). As per the so-called "drag
+equation", the coefficient <span class="math inline"><em>c</em></span>
+can be found to be <span class="math inline">$c=\frac{1}{2}C_d
+A\rho$</span>, where <span
+class="math inline"><em>C</em><sub><em>d</em></sub></span> is the
+so-called "drag coefficient", <span
+class="math inline"><em>A</em></span> is the cross-sectional area and
+<span class="math inline"><em>ρ</em></span> is the density of the
+medium. To visualize this case, it’s better to proceed with an example.
+Here, we’ll procede with a horizontal throw case application of
+equations (8). We will model a cannon ball with density <span
+class="math inline"><em>ρ</em><sub><em>b</em></sub> = 707 kg/m<sup>3</sup></span>,
+corresponding to the density of certain kinds of stone, and a radius of
+18.25 cm. Here’s the plotted trajectory of a sample numerical
+integration of equations with time step <span
+class="math inline"><em>h</em> = 0.001</span> (8) in Python with Heun’s
+method, a second order method (Süli, 2003):<br />
+<img src="Figure_2.png" style="width:80.0%"
+alt="image" /><br />
+This image shows the path equations (8) predict for a particle initially
+at rest along the vertical direction, starting from <span
+class="math inline"><em>x</em>(0) = 0</span>, <span
+class="math inline"><em>y</em>(0) = 100 m</span> and <span
+class="math inline"><em>u</em> = 200 m/s</span>. The image is then
+compared with what would the path been like without drag. One of the
+things we can notice from the image is that the path of the particle
+with drag is steeper than the path without drag. Also, that the range
+has been significantly reduced, the particle without drag goes farther
+than the one with drag. This happens because the drag reduces the
+velocity of the particle as time passes. It can be seen from equations
+(8) that if the velocity is always positive, the acceleration will
+always be positive, meaning the velocity is always decreasing in both
+the <span class="math inline"><em>x</em></span> and <span
+class="math inline"><em>y</em></span> directions. The model presented in
+this section is good for Reynolds numbers <span
+class="math inline">Re &gt; 1000</span>.</p>
+<h1
+id="level-4-constant-gravity-with-quadratic-drag-buoyancy-magnus-force">Level
+4: Constant gravity with quadratic drag, buoyancy, Magnus force</h1>
+<p>This level is the most realistic out of the ones presented so far. It
+still models the behavior with a deterministic differential equation,
+but takes the Magnus force into account. Aditionally, this model is now
+3D. Applications of this model include sports. For example, it’s useful
+to model the dynamics of a ball after a footballer kicks a penalty, both
+the trajectory and where it ends up landing, as a result of simply the
+initial kick the footballer gives. Making it therefore useful, e.g., in
+game development to make FIFA/PES-like games. The mass here is treated
+like a rigid body. Therefore, these equations, properly speaking, track
+the trajectory of the center-of-mass of the ball. The Magnus force
+acting on a given object can be modeled by a simple expression: <span
+class="math inline"><strong>F</strong><sub>Magnus</sub> = <em>S</em><strong>ω</strong> × <strong>v</strong></span>
+(Fitzpatrick, 2004). Experiments
+to determine the value of the Magnus force coefficient expression are
+given in (Goff, 2013). We can
+also add buoyancy here. It also has a simple expression, the buoyant
+force is the removed mass times the gravitational acceleration: <span
+class="math inline"><strong>F</strong><sub><em>b</em></sub> = −<em>ρ</em><sub><em>f</em></sub><em>V</em><em>g</em><em>k̂</em></span>.
+Combining all of this gives the equation: <span
+class="math display">$$m\ddot{\mathbf{r}}=-mg\hat{k}+\rho_b
+Vg\hat{k}-c|\dot{\mathbf{r}}|\dot{\mathbf{r}}+S\mathbf{\omega}\times\mathbf{\dot{\mathbf{r}}}.$$</span>
+Like in the previous section, we can divide this into components, though
+this time there are 3 of them: <span
+class="math display">$$\begin{align}
+        m\ddot{x}=-c\dot{x}\sqrt{\dot{x}^2+\dot{y}^2+\dot{z}^2}-S\omega\dot{y}
+        \\
+        m\ddot{y}=-c\dot{y}\sqrt{\dot{x}^2+\dot{y}^2+\dot{z}^2}+S\omega\dot{x}
+        \\
+        m\ddot{z}=g\bigg(\frac{\rho_f
+V}{m}-1\bigg)-c\dot{z}\sqrt{\dot{x}^2+\dot{y}^2+\dot{z}^2}
+    \end{align}$$</span> Like in the previous case, an analytical
+solution is impossible. Though it’s possible to derive asymptotic
+special cases from this equation, as done in (Turkyilmazoglu, 2020). This is what a python script
+solving equations (10) numerically with initial conditions <span
+class="math inline"><em>x</em>(0) = <em>y</em>(0) = <em>z</em>(0) = 0</span>
+and <span class="math inline"><em>ẋ</em>(0) = 7 m/s</span>, <span
+class="math inline"><em>ẏ</em>(0) = 5 m/s</span>, <span
+class="math inline"><em>ż</em>(0) = 10 m/s</span>, for a football with a
+mass of 450 g, and a radius of 11.15 cm:<br />
+<img src="Figure_1.png" alt="image" /><br />
+This shows how the trajectory is deviated horizontally thanks to the
+Magnus force, as well as of course the steeper trajectory derived from
+the drag force. In this case, the numerical integration took the time
+step <span class="math inline"><em>h</em> = 0.01</span>, and took a
+total of 10000 steps to produce this figure. It’s interesting to note
+how the Magnus force has a similar form to the magnetic force <span
+class="math inline"><strong>F</strong> = <em>q</em><strong>v</strong> × <strong>B</strong></span>,
+making this Magnus force mimick the effect a magnetic field has over a
+charged particle.<br />
+</p>
+<h1 id="discussion">Discussion</h1>
+<p>In this pedagogical paper, we have revised 4 different levels of
+complexity for the projectile motion physical problem. We have increased
+our complexity from the easiest, textbook model that is simple but
+unrealistic in many cases to the most complex model that describes more
+things accurately, e.g., a football’s trajectory after a penalty is
+taken. This paper shows how can complex phenomena be modeled, and how
+models take into account more and more variables as the physical world
+demands it.</p>
+<h1 id="references">References</h1>
+<ul>
+ <li>Serway, R. A., Jewett, J. W. <em>Physics for
+Scientists and Engineers</em>. Cengage Learning, Boston, MA, 9th
+edition, 2016</li> <li> Knight, R. D. <em>Physics for Scientists and Engineers, a
+strategic approach</em>. Addison Wesley, San Francisco, CA, 2nd edition,
+2008 </li> <li>Acheson, D. J. <em>Elementary Fluid Dynamics</em>. Oxford
+University Press, Oxford, England, 2005 </li> <li>Taylor, J. R. <em>Classical
+Mechanics</em>. University Science Books, Melville, CA, 2005 </li> <li>Logan, J.
+D. <em>A First Course in Differential Equations</em>. Springer,
+Switzerland, 2015 </li> <li>Borghi, R. Trajectory of a body in a resistant medium:
+an elementary derivation. <em>European Journal of Physics</em>,
+<em>34</em>, 359-369, 2013</li> <li> Greiner, W. <em>Classical Mechanics: Point
+Particles and Relativity</em>, Springer, New York, NY, 2004</li> <li> Parker, G.
+W. Projectile motion with air resistance quadratic in the speed.
+<em>American Journal of Physics</em> <em>45</em>(7), 606-610, 1977</li> <li>
+Turkyilmazoglu, M. Highly accurate analytic formulae for projectile
+motion subjected to quadratic drag. <em>European Journal of Physics</em>
+<em>37</em>, 1-12, 2016</li> <li> Süli, E., Mayers, D. F. <em>An Introduction to
+Numerical Analysis.</em> Cambridge University Press, Cambridge, England.
+2003 </li> <li>Fitzpatrick, R. <em>Computational Physics: An introductory
+course</em> Author: Austin, TX. 2004</li> <li> Goff, J. E. A review of recent
+research into aerodynamics of sport projectiles. <em>Sports
+Engineering</em> <em>16</em>, 137-154, 2013</li> <li>Turkyilmazoglu, M.,
+Altundag, T. Exact and approximate solutions to projectile motion in air
+incorporating Magnus effect <em>Eur. Phys. J. Plus</em> 135:566,
+2020</li>
+</ul>
+<script id="dsq-count-scr" src="//elsistemacaotico.disqus.com/count.js" async></script>
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://elsistemacaotico.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</body>
+</html>
