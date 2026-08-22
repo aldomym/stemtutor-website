@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News on Smart STEM Tutor</title><link>http://localhost:1313/news/</link><description>Recent content in News on Smart STEM Tutor</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 25 Jan 2024 16:45:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml"/><item><title>Breaking News</title><link>http://localhost:1313/news/breaking-news/</link><pubDate>Thu, 25 Jan 2024 16:45:00 +0000</pubDate><guid>http://localhost:1313/news/breaking-news/</guid><description>&lt;p&gt;This is breaking news content demonstrating how different sections can contain different types of content while using the same underlying Hugo section functionality.&lt;/p&gt;
+&lt;h2 id="news-section-benefits"&gt;News Section Benefits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Separate URL space&lt;/strong&gt;: &lt;code&gt;/news/&lt;/code&gt; vs &lt;code&gt;/articles/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Different content structure&lt;/strong&gt;: News vs long-form articles&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Independent RSS feeds&lt;/strong&gt;: &lt;code&gt;/news/index.xml&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Custom styling&lt;/strong&gt;: Different templates if needed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This allows for clear content separation while maintaining consistency in the overall site structure.&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on Site de démonstration pour Adritian - un thème Hugo haute performance par Adrián Moreno</title><link>http://localhost:1313/fr/home/</link><description>Recent content in Homes on Site de démonstration pour Adritian - un thème Hugo haute performance par Adrián Moreno</description><generator>Hugo</generator><language>fr</language><atom:link href="http://localhost:1313/fr/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Accueil</title><link>http://localhost:1313/fr/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/fr/home/home/</guid><description>&lt;section id="section-vedette" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
+ &lt;div&gt;
+ 
+
+ &lt;div class="showcase-section row flex-column-reverse flex-md-row rad-fade-down rad-waiting rad-animate"&gt;
+ &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6"&gt;
+ &lt;h1 class="display-1"&gt;
+ Section vedette
+ &lt;/h1&gt;
+ &lt;h2 class="display-5"&gt;
+ &lt;span&gt;Sous-titre - vient de &lt;code&gt;home.md&lt;/code&gt;&lt;/span&gt;
+ &lt;/h2&gt;
+ &lt;div class="lead"&gt;
+ Texte en &lt;strong&gt;gras&lt;/strong&gt; et normal. Ceci provient de &lt;code&gt;home.md&lt;/code&gt;. Non fourni ? i18n par défaut (pour compatibilité versions &gt;1.7.0)
+ &lt;/div&gt;
+ 
+ &lt;/div&gt;
+ &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image"&gt;
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class=""&gt;
+ 
+ 
+
+ &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_a7b2644457c47bcd.webp 1x, http://localhost:1313/images/showcase/showcase_hu_4c5dfabd031e1ee3.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_9a958c778e3fd4b3.png 1x, http://localhost:1313/images/showcase/showcase_hu_860b800987f84425.png 2x" type="image/png"&gt;
+
+ &lt;img
+ width="960"
+ height="672"
+ class="lozad img-responsive "
+ data-src="http://localhost:1313/images/showcase/showcase_hu_9a958c778e3fd4b3.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ /&gt;
+ &lt;/picture&gt;
+
+
+
+
+ &lt;/div&gt;
+ &lt;div class="col-12 inner-content"&gt;
+ 
+
+
+
+
+
+ 
+
+&lt;div class="container" id="liens-plateforme"&gt;
+ &lt;div class="row platform-links shortcode"&gt;
+ &lt;div class="col-12"&gt;
+ 
+ 
+ &lt;a
+ href="https://facebook.com/yourpage"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="square-facebook"
+ &gt;&lt;i class="icon-square-facebook"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://twitter.com/yourpage"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="square-twitter"
+ &gt;&lt;i class="icon-square-twitter"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://www.linkedin.com/in/adrianmoreno/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="linkedin"
+ &gt;&lt;i class="icon-linkedin"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://github.com/zetxek"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="square-github"
+ &gt;&lt;i class="icon-square-github"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://twitter.com/zetxek"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="x-twitter"
+ &gt;&lt;i class="icon-x-twitter"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="http://localhost:1313/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="dribbble"
+ &gt;&lt;i class="icon-dribbble"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="http://localhost:1313/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="behance"
+ &gt;&lt;i class="icon-behance"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="http://localhost:1313/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="youtube"
+ &gt;&lt;i class="icon-youtube"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://www.instagram.com/zetxek/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="instagram"
+ &gt;&lt;i class="icon-instagram"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://www.facebook.com/zetxek/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="square-facebook"
+ &gt;&lt;i class="icon-square-facebook"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="http://localhost:1313/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="codepen"
+ &gt;&lt;i class="icon-codepen"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://www.yelp.com/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="yelp"
+ &gt;&lt;i class="icon-yelp"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://www.bluesky.com/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="bluesky"
+ &gt;&lt;i class="icon-bluesky"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://www.threads.net/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="threads"
+ &gt;&lt;i class="icon-threads"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://www.adrianmoreno.info/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="face-smile"
+ &gt;&lt;i class="icon-face-smile"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://www.adrianmoreno.info/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="user"
+ &gt;&lt;i class="icon-user"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://www.adrianmoreno.info/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="quote-left"
+ &gt;&lt;i class="icon-quote-left"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://www.adrianmoreno.info/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="cloud-arrow-down"
+ &gt;&lt;i class="icon-cloud-arrow-down"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://www.adrianmoreno.info/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="square-xing"
+ &gt;&lt;i class="icon-square-xing"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+ &lt;/div&gt;
+ 
+
+ &lt;/div&gt;
+
+
+ &lt;div class="row platform-links"&gt;
+ &lt;div class="col-12"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ 
+&lt;/section&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+&lt;section id="a-propos" class="section rad-animation-group pb-0"&gt;
+ &lt;div class="rad-fade-down"&gt;
+ &lt;div class="row d-flex flex-column-reverse flex-md-row"&gt;
+ &lt;div class="about__profile-picture col-12 col-md-6"&gt;
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class=""&gt;
+ 
+ 
+
+ &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_bbe41a892250291a.webp 1x, http://localhost:1313/images/about/user-picture_hu_242f30747597698e.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_b01984b00d044091.png 1x, http://localhost:1313/images/about/user-picture_hu_2eb4bf497ea17b2b.png 2x" type="image/png"&gt;
+
+ &lt;img
+ width="972"
+ height="1296"
+ class="lozad img-responsive image-left-overflow"
+ data-src="http://localhost:1313/images/about/user-picture_hu_b01984b00d044091.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ /&gt;
+ &lt;/picture&gt;
+
+ &lt;/div&gt;
+ &lt;div class="col-12 col-md-6 my-auto"&gt;
+ &lt;h2&gt;À propos de moi&lt;/h2&gt;
+ &lt;div class="about-me content"&gt;
+ En utilisant la &lt;code&gt;syntaxe HTML&lt;/code&gt;
+ &lt;/div&gt;
+ 
+ &lt;a href="https://www.google.com" target="_blank" class="btn btn-primary mt-3"&gt;
+ &lt;i class="info"&gt;&lt;/i&gt;
+ Vous pouvez modifier ceci
+ &lt;/a&gt;
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+
+
+
+ 
+
+
+&lt;section
+ id="formation-academique"
+ class="section section--border-bottom rad-animation-group"
+&gt;
+ &lt;div class="container-education"&gt;
+ &lt;div class="row rad-fade-down"&gt;
+ &lt;div class="col-12"&gt;
+ &lt;h2&gt;Formation académique&lt;/h2&gt;
+ &lt;div class="row pt-2 pt-md-4"&gt;
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;section id="experience-professionnelle" class="section-experience section section--border-bottom rad-animation-group flex-grow-1"&gt;
+ &lt;div class="row flex-column-reverse flex-md-row rad-fade-down"&gt;
+ &lt;div class="experience-list col-12 col-md-6"&gt;
+ &lt;h2&gt;
+ 
+ Mon expérience professionnelle (section)
+ 
+ &lt;/h2&gt;
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ &lt;div class="experience"&gt;
+ &lt;a href="http://localhost:1313/fr/experience/job-3/" class="experience__link"&gt;
+ &lt;div class="experience__header"&gt;
+ 
+ 
+ &lt;div class="experience__meta"&gt;
+ &lt;div class="experience__date"&gt;2024-maintenant&lt;/div&gt;
+ &lt;div class="experience__title"&gt;PDG&lt;/div&gt;
+ &lt;div class="experience__company"&gt;
+ Internet Affairs Inc..
+ &lt;span class="experience__location"&gt;Stavanger, Norvège&lt;/span&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="experience__description d-none d-print-block"&gt;
+ &lt;h1&gt;Poste #3&lt;/h1&gt;
+ Réparer le monde, un octet à la fois Prise de contrôle hostile - qui est le patron maintenant !
+
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/a&gt;
+ &lt;/div&gt;
+ 
+ &lt;div class="experience"&gt;
+ &lt;a href="http://localhost:1313/fr/experience/job-2/" class="experience__link"&gt;
+ &lt;div class="experience__header"&gt;
+ 
+ 
+ &lt;div class="experience__meta"&gt;
+ &lt;div class="experience__date"&gt;2023-2024&lt;/div&gt;
+ &lt;div class="experience__title"&gt;Stagiaire en Chef&lt;/div&gt;
+ &lt;div class="experience__company"&gt;
+ Internet Affairs Inc..
+ &lt;span class="experience__location"&gt;Stavanger, Norvège&lt;/span&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="experience__description d-none d-print-block"&gt;
+ &lt;h1&gt;Poste #2&lt;/h1&gt;
+ Réparer le monde, un octet à la fois Poursuivant la quête.
+
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/a&gt;
+ &lt;/div&gt;
+ 
+
+ 
+ &lt;/div&gt;
+ &lt;div class="experience-description col-12 col-md-6"&gt;
+ 
+ 
+
+
+
+
+
+
+
+
+
+&lt;div class="container-experience"&gt;
+ &lt;div class="row"&gt;
+ &lt;h2&gt;Introduction&lt;/h2&gt;
+ &lt;div class="lead"&gt;Description.&lt;br&gt;Vous pouvez utiliser du HTML, avec format &lt;strong&gt;gras&lt;/strong&gt;, ou des listes &lt;ul&gt;&lt;li&gt;un&lt;/li&gt;&lt;li&gt;deux&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="row"&gt;
+ 
+ &lt;div class="col-12 col-lg-4"&gt;
+ &lt;a
+ href='https://example.com'
+ class="btn btn-primary btn-block w-100"
+ target="_blank"
+ rel="noopener noreferrer"
+ &gt;
+ &lt;i class="icon-globe"&gt;&lt;/i&gt;
+ Visiter Exemple
+ &lt;i class="icon-arrow-right"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+ &lt;/div&gt;
+ 
+
+ 
+ &lt;div class="col-12 col-lg-4"&gt;
+ &lt;a
+ href='http://localhost:1313/img/general/user-smile-fill.svg'
+ class="btn btn-frameless w-100"
+ target="_blank"
+ rel="noopener noreferrer"
+ &gt;
+ 
+ Autre Bouton (2)
+ &lt;/a&gt;
+ &lt;/div&gt;
+ 
+
+ 
+ &lt;div class="col-12 col-lg-4"&gt;
+ &lt;a
+ href='http://localhost:1313/es/experience'
+ class="btn btn-frameless w-100"
+ rel="noopener noreferrer"
+ &gt;
+ 
+ Tout voir
+ &lt;/a&gt;
+ &lt;/div&gt;
+ 
+ &lt;/div&gt;
+&lt;/div&gt;
+
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;h2 id="expérience-liste"&gt;Expérience (liste)&lt;/h2&gt;
+&lt;p&gt;Vous pouvez voir une autre version, utilisant &lt;code&gt;experience-list&lt;/code&gt; sur &lt;a href="http://localhost:1313/cv"&gt;/cv&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>

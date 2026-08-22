@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Images on Smart STEM Tutor</title><link>http://localhost:1313/tags/images/</link><description>Recent content in Images on Smart STEM Tutor</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 15 Mar 2025 10:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/images/index.xml" rel="self" type="application/rss+xml"/><item><title>Responsive Images</title><link>http://localhost:1313/blog/responsive-images/</link><pubDate>Sat, 15 Mar 2025 10:00:00 +0000</pubDate><guid>http://localhost:1313/blog/responsive-images/</guid><description>&lt;p&gt;The Adritian theme includes a &lt;code&gt;responsive-image&lt;/code&gt; shortcode that generates optimized &lt;code&gt;&amp;lt;picture&amp;gt;&lt;/code&gt; elements with WebP conversion, multiple srcset widths, and lazy loading.&lt;/p&gt;
+&lt;h3 id="basic-usage"&gt;Basic usage&lt;/h3&gt;
+&lt;p&gt;Place your images in the &lt;code&gt;assets/&lt;/code&gt; directory and reference them with the shortcode:&lt;/p&gt;
+&lt;picture&gt;
+ &lt;source
+ type="image/webp"
+ srcset="http://localhost:1313/images/experience/internet-affairs_hu_940adc745f450aee.webp 400w, http://localhost:1313/images/experience/internet-affairs_hu_2ca6cc02d3d4a10e.webp 800w"
+ sizes="100vw"&gt;
+ &lt;source
+ type="image/png"
+ srcset="http://localhost:1313/images/experience/internet-affairs_hu_a085b5c620308955.png 400w, http://localhost:1313/images/experience/internet-affairs_hu_75b3e18deee8b0e0.png 800w"
+ sizes="100vw"&gt;
+ &lt;img
+ src="http://localhost:1313/images/experience/internet-affairs_hu_a085b5c620308955.png"
+ width="400"
+ height="400"
+ alt="Sample responsive image"
+ 
+ loading="lazy"
+ decoding="async"&gt;
+ &lt;/picture&gt;
+
+&lt;p&gt;The shortcode above produces a &lt;code&gt;&amp;lt;picture&amp;gt;&lt;/code&gt; element with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;WebP srcset&lt;/strong&gt; at 400w, 800w, and 1200w (up to the original image width)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Original format srcset&lt;/strong&gt; at the same widths&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lazy loading&lt;/strong&gt; via &lt;code&gt;loading=&amp;quot;lazy&amp;quot;&lt;/code&gt; and &lt;code&gt;decoding=&amp;quot;async&amp;quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CLS prevention&lt;/strong&gt; via &lt;code&gt;width&lt;/code&gt; and &lt;code&gt;height&lt;/code&gt; attributes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="custom-sizes-hint"&gt;Custom sizes hint&lt;/h3&gt;
+&lt;p&gt;Use the &lt;code&gt;sizes&lt;/code&gt; parameter to give the browser a layout hint for which srcset entry to pick:&lt;/p&gt;</description></item></channel></rss>

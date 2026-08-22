@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Smart STEM Tutor</title><link>http://localhost:1313/projects/</link><description>Recent content in Projects on Smart STEM Tutor</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Radity Finance - UI Kit</title><link>http://localhost:1313/projects/radity-finance-uikit/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>http://localhost:1313/projects/radity-finance-uikit/</guid><description>&lt;p&gt;We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech.&lt;/p&gt;</description></item><item><title>Robo Advisor</title><link>http://localhost:1313/projects/robo-advisor/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>http://localhost:1313/projects/robo-advisor/</guid><description>&lt;p&gt;Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard.&lt;/p&gt;</description></item><item><title>Swiss Fintech Website</title><link>http://localhost:1313/projects/swiss-fintech/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>http://localhost:1313/projects/swiss-fintech/</guid><description>&lt;p&gt;Here you can add additional context, description, links, etc.
+The content you see here comes from the contents of the &lt;code&gt;content/projects&lt;/code&gt; folder.&lt;/p&gt;
+&lt;p&gt;This project is in the file &lt;code&gt;projects/swiss-fintech.md&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;In the markdown file frontmatter you can also define additional parameters, such as the link:&lt;/p&gt;
+&lt;div class="highlight-wrapper"&gt;
+ &lt;button class="copy-code-btn" type="button" aria-label="Copy code to clipboard"&gt;
+ &lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"&gt;
+ &lt;rect x="9" y="9" width="13" height="13" rx="2" ry="2"&gt;&lt;/rect&gt;
+ &lt;path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"&gt;&lt;/path&gt;
+ &lt;/svg&gt;
+ &lt;span class="copy-text"&gt;Copy&lt;/span&gt;
+ &lt;/button&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;link: &amp;#34;https://www.adrianmoreno.info&amp;#34; # optional URL to link the logo to
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;params:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; button:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; icon: &amp;#34;icon-arrow-right&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; btnText: &amp;#34;Case Study&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; URL: &amp;#34;https://www.adrianmoreno.info&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; image: 
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; src: &amp;#34;images/works/swissfintech.jpg&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; scale: 0.5
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</description></item></channel></rss>

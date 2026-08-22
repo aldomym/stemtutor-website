@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sample on موقع تجريبي لأدريتيان - قالب هوغو عالي الأداء من إنشاء أدريان مورينو</title><link>http://localhost:1313/ar/tags/sample/</link><description>Recent content in Sample on موقع تجريبي لأدريتيان - قالب هوغو عالي الأداء من إنشاء أدريان مورينو</description><generator>Hugo</generator><language>ar</language><lastBuildDate>Fri, 21 Jun 2024 14:38:33 +0200</lastBuildDate><atom:link href="http://localhost:1313/ar/tags/sample/index.xml" rel="self" type="application/rss+xml"/><item><title>محتوى تجريبي: أنماط التنسيق</title><link>http://localhost:1313/ar/blog/sample/</link><pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate><guid>http://localhost:1313/ar/blog/sample/</guid><description>&lt;p&gt;محتوى تدوينة تجريبي. يشبه لوريم إيبسوم لكنه يقول شيئاً أكثر فائدة.&lt;/p&gt;
+&lt;p&gt;We will show some content that is supported:&lt;/p&gt;
+&lt;h2 id="basic-syntax"&gt;Basic Syntax&lt;/h2&gt;
+&lt;h3 id="headings"&gt;Headings&lt;/h3&gt;
+&lt;div class="highlight-wrapper"&gt;
+ &lt;button class="copy-code-btn" type="button" aria-label="Copy code to clipboard"&gt;
+ &lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"&gt;
+ &lt;rect x="9" y="9" width="13" height="13" rx="2" ry="2"&gt;&lt;/rect&gt;
+ &lt;path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"&gt;&lt;/path&gt;
+ &lt;/svg&gt;
+ &lt;span class="copy-text"&gt;Copy&lt;/span&gt;
+ &lt;/button&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;# Heading 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;## Heading 2
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;### Heading 3
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;#### Heading 4
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;##### Heading 5
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;###### Heading 6&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id="heading-2"&gt;Heading 2&lt;/h2&gt;
+&lt;h3 id="heading-3"&gt;Heading 3&lt;/h3&gt;
+&lt;h4 id="heading-4"&gt;Heading 4&lt;/h4&gt;
+&lt;h5 id="heading-5"&gt;Heading 5&lt;/h5&gt;
+&lt;h6 id="heading-6"&gt;Heading 6&lt;/h6&gt;
+&lt;h3 id="emphasis"&gt;Emphasis&lt;/h3&gt;
+&lt;div class="highlight-wrapper"&gt;
+ &lt;button class="copy-code-btn" type="button" aria-label="Copy code to clipboard"&gt;
+ &lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"&gt;
+ &lt;rect x="9" y="9" width="13" height="13" rx="2" ry="2"&gt;&lt;/rect&gt;
+ &lt;path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"&gt;&lt;/path&gt;
+ &lt;/svg&gt;
+ &lt;span class="copy-text"&gt;Copy&lt;/span&gt;
+ &lt;/button&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;*This text will be italic*
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;_This will also be italic_
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;**This text will be bold**
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;__This will also be bold__
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;_You **can** combine them_&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;This text will be italic&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>

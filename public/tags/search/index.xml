@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Search on Smart STEM Tutor</title><link>http://localhost:1313/tags/search/</link><description>Recent content in Search on Smart STEM Tutor</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 01 Jan 2026 09:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/search/index.xml" rel="self" type="application/rss+xml"/><item><title>Search improvements: multilingual, reliable, and configurable</title><link>http://localhost:1313/blog/search-improvements/</link><pubDate>Thu, 01 Jan 2026 09:00:00 +0000</pubDate><guid>http://localhost:1313/blog/search-improvements/</guid><description>&lt;p&gt;The search functionality in the theme is powered by Fuse.js and runs entirely in the browser. This post explains how it works, how the search index is built, and how to customize it for multilingual and subdirectory deployments.&lt;/p&gt;
+&lt;h2 id="how-search-works"&gt;How search works&lt;/h2&gt;
+&lt;p&gt;Search is client-side:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Hugo generates a JSON index (&lt;code&gt;index.json&lt;/code&gt;) that contains the title, plain content, tags, categories, and other metadata for each page.&lt;/li&gt;
+&lt;li&gt;The search page loads &lt;code&gt;fuse.js&lt;/code&gt; and downloads the JSON index.&lt;/li&gt;
+&lt;li&gt;Fuse.js performs a fast in-browser search and renders the results.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Because the index is a normal Hugo output, it follows your &lt;code&gt;baseURL&lt;/code&gt; and language configuration automatically.&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on Smart STEM Tutor</title><link>http://localhost:1313/tags/hugo/</link><description>Recent content in Hugo on Smart STEM Tutor</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 20 Jan 2024 14:30:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Advanced Hugo Sections</title><link>http://localhost:1313/articles/second-article/</link><pubDate>Sat, 20 Jan 2024 14:30:00 +0000</pubDate><guid>http://localhost:1313/articles/second-article/</guid><description>&lt;p&gt;This is the second article, demonstrating how multiple articles appear in the same section.&lt;/p&gt;
+&lt;h2 id="advanced-section-features"&gt;Advanced Section Features&lt;/h2&gt;
+&lt;p&gt;Hugo sections provide powerful features for content organization:&lt;/p&gt;
+&lt;h3 id="custom-section-templates"&gt;Custom Section Templates&lt;/h3&gt;
+&lt;p&gt;You can create custom templates for each section by placing them in &lt;code&gt;layouts/SECTION/&lt;/code&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;layouts/articles/list.html&lt;/code&gt; - for &lt;code&gt;/articles/&lt;/code&gt; page&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;layouts/articles/single.html&lt;/code&gt; - for individual articles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="section-variables"&gt;Section Variables&lt;/h3&gt;
+&lt;p&gt;In templates, you can access section-specific data:&lt;/p&gt;
+&lt;div class="highlight-wrapper"&gt;
+ &lt;button class="copy-code-btn" type="button" aria-label="Copy code to clipboard"&gt;
+ &lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"&gt;
+ &lt;rect x="9" y="9" width="13" height="13" rx="2" ry="2"&gt;&lt;/rect&gt;
+ &lt;path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"&gt;&lt;/path&gt;
+ &lt;/svg&gt;
+ &lt;span class="copy-text"&gt;Copy&lt;/span&gt;
+ &lt;/button&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-go" data-lang="go"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;{{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;Section&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;}}&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="c1"&gt;// &amp;#34;articles&amp;#34;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;{{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;Type&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;}}&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="c1"&gt;// content type&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;{{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;Pages&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;}}&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="c1"&gt;// all pages in section&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;{{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;RegularPages&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;}}&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="c1"&gt;// only regular pages&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3 id="taxonomies-per-section"&gt;Taxonomies per Section&lt;/h3&gt;
+&lt;p&gt;Each section can have its own taxonomies (tags, categories) with independent organization.&lt;/p&gt;</description></item><item><title>Hugo Basics Part 2</title><link>http://localhost:1313/blog/hugo-basics-part-2/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/blog/hugo-basics-part-2/</guid><description>&lt;p&gt;In part two, we will explore layouts, templates, and how to customize your Hugo site.&lt;/p&gt;</description></item><item><title>Hugo Basics Part 1</title><link>http://localhost:1313/blog/hugo-basics-part-1/</link><pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/blog/hugo-basics-part-1/</guid><description>&lt;p&gt;Welcome to the first installment of Hugo Basics. We&amp;rsquo;ll cover project setup and your first content file.&lt;/p&gt;</description></item></channel></rss>
