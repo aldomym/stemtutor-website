@@ -80,17 +80,17 @@ images = ['/img/og-img.png']
 themeColor = '#478079'
 
 [params.seo]
-siteName = 'Adritian'
-siteDescription = 'This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications.'
-siteImage = '/img/og-img.png'
+siteName = "Smart STEM Tutor"
+siteDescription = "One-on-one online tutoring in AP Physics, Calculus, and college math"
+siteImage = "/img/og-img.png"
 
 [params.social]
 twitter = 'zetxek'
 
 [params.seo.person]
-name = 'Adrián Moreno Peña'
-url = 'https://www.adrianmoreno.info'
-sameAs = ['https://github.com/zetxek']
+name = 'Aldo Mayme'
+url = 'https://smartstemtutor.site'
+sameAs = ['https://www.linkedin.com/in/aldo-mayme-martinez']
 sections = [
   "showcase",
   "about",
