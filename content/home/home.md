@@ -27,13 +27,14 @@ draft = false
 {{< about-section
     title="About me"
     content="I am a highly qualified tutor with 2+ years of online tutoring experience with primarily American students. My experience has included teaching high school IB curriculum and tutoring classical and quantum mechanics to undergraduates. Previously worked with Varsity Tutors. STEM subjects have always been my passion, and I'm pleased to share that passion with every student I work with."
-    button_icon="icon-user"
-    button_text="Check my skills"
-    button_url="/skills"
+    button_text="Book a free 15-minute call"
+    button_url="https://calendly.com/aldon2004/new-meeting"
+    button_icon="icon-calendar"
     imgSrc="images/about/user-picture.png"
     imgScale="0.5"
     v_align="center"
     h_align="left"
+    <p style="color:red">Complimentary call only, no instruction</p>
  >}}
 
 {{< education-list
