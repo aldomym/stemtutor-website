@@ -225,7 +225,7 @@ disabled = false
 languageCode = 'es'
 languageDirection = 'ltr'
 languageName = 'Español'
-title = 'Sitio demo de Adritian - un tema Hugo de alto rendimiento por Adrián Moreno'
+title = 'Smart STEM Tutor'
 weight = 0
 [[languages.es.menus.header]]
 name = "INICIO"
