@@ -75,5 +75,5 @@ DOI: 10.1088/1361-6404/adca14
     contact_form_message="Describe the subject, topic and grade level of your inquiry"
     contact_button="Send Message"
     contact_email_email="aldon2004@hotmail.com"
-    contact_address_address="UTC-6"
+    contact_address_address="Time zone: CST (UTC-6)"
 >}}
