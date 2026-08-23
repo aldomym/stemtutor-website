@@ -8,5 +8,5 @@ location: "St. Louis, MO"
 duration: "2025-present"
 
 ---
-## Independent Tutor
-Freelance tutor with independent clients
+## Freelance
+Independent tutor with freelance clients found in diverse platforms
