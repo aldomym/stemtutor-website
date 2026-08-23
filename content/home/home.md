@@ -74,7 +74,6 @@ DOI: 10.1088/1361-6404/adca14
     contact_form_email="Email Address"
     contact_form_message="Describe the subject, topic and grade level of your inquiry"
     contact_button="Send Message"
-    contact_phone_number="+52 5513960115"
     contact_email_email="aldon2004@hotmail.com"
-    contact_address_address="Mexico City, Mexico"
+    contact_address_address="UTC-6"
 >}}
