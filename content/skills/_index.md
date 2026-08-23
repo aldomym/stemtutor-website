@@ -1,5 +1,5 @@
 ---
-title: "Technical Skills"
+title: "Subjects I cover"
 date: 2025-05-19T14:56:00+01:00
 draft: false
 description: "A comprehensive overview of technical skills and expertise across various domains."
