@@ -4,7 +4,7 @@ draft: false
 title: "Independent Tutor"
 jobTitle: "Tutor"
 company: "Self-employed "
-location: "St. Louis, MO"
+location: "North America"
 duration: "2025-present"
 
 ---
