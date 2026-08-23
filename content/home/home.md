@@ -34,7 +34,6 @@ draft = false
     imgScale="0.5"
     v_align="center"
     h_align="left"
-    <p style="color:red;text-align:center;">Complimentary call only, no instruction</p>
  >}}
 
 {{< education-list
