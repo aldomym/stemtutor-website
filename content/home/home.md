@@ -15,16 +15,10 @@ draft = false
  >}}
 
 {{< platform-links >}}
-    {{< link icon="square-facebook" url="https://facebook.com/yourpage" >}}
-    {{< link icon="linkedin" url="https://www.linkedin.com/in/adrianmoreno/" >}}
+    {{< link icon="linkedin" url="https://www.linkedin.com/in/aldo-mayme-martinez/" >}}
     {{< link icon="square-github" url="https://github.com/aldomym" >}}
-    {{< link icon="youtube" url="#" >}}
-    {{< link icon="square-facebook" url="https://www.facebook.com/zetxek/" >}}
-    {{< link icon="codepen" url="#" >}}
-    {{< link icon="face-smile" url="https://www.adrianmoreno.info/" >}}
-    {{< link icon="quote-left" url="https://www.adrianmoreno.info/" >}}
-    {{< link icon="cloud-arrow-down" url="https://www.adrianmoreno.info/" >}}
-    {{< link icon="square-xing" url="https://www.adrianmoreno.info/" >}}
+    {{< link icon="youtube" url="https://www.youtube.com/@LocosporlaCiencia" >}}
+    {{< link icon="face-smile" url="https://www.reddit.com/user/Glittering_Report_82/" >}}
 
 {{< /platform-links >}}
 
