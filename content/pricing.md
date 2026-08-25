@@ -40,9 +40,7 @@ Adaptive explanations and guided practice
       </div>
     </div>
   </div>
-</div>
-<br>
- <div class="col-md-4 mb-4">
+   <div class="col-md-4 mb-4">
     <div class="card h-100">
       <div class="card-body">
         <h3 class="card-title" style="color:red;">Read before requesting - No free trials!</h3>
@@ -50,3 +48,4 @@ Adaptive explanations and guided practice
       </div>
     </div>
   </div>
+</div>
