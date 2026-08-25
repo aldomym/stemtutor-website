@@ -372,6 +372,19 @@ showJobCard = true # Set to false to hide the job card
     noClasses = false
     style = "github"
 
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+          
+[markup.highlight]
+  lineNos = false
+  noClasses = false
+  style = "github"
+
 [imaging]
   resampleFilter = "Lanczos"
   quality = 85
