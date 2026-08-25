@@ -2,6 +2,8 @@
 title: "4 levels of projectile motion"
 date: 2026-01-02
 draft: false
+params:
+  math: true
 ---
 
 ## Abstract
