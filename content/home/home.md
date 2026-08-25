@@ -34,6 +34,8 @@ draft = false
     imgScale="0.5"
     v_align="center"
     h_align="left"
+
+    <p class="text-danger fw-bold">This is a complimentary 15-minute planning call — not a free tutoring trial.</p>
  >}}
 
 {{< education-list
