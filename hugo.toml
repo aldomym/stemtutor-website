@@ -379,11 +379,6 @@ showJobCard = true # Set to false to hide the job card
         [markup.goldmark.extensions.passthrough.delimiters]
           block = [['\[', '\]'], ['$$', '$$']]
           inline = [['\(', '\)']]
-          
-[markup.highlight]
-  lineNos = false
-  noClasses = false
-  style = "github"
 
 [imaging]
   resampleFilter = "Lanczos"
