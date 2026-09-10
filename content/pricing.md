@@ -7,14 +7,14 @@ description: "Pricing for one-on-one online physics and math tutoring."
   <div class="col-md-4 mb-4">
     <div class="card h-100">
       <div class="card-body">
-        <h3 class="card-title">High school AP & IB</h3>
+        <h3 class="card-title">High school AP</h3>
         <p class="card-text display-6">$49.99</p>
         <p class="card-text">Algebra <br> Pre-calculus and Calculus
 AP Physics 1 and AP Physics 2
 <br>
 AP Physics C: Mechanics and E&M
 <br>
-IB mathematics and physics support
+AP Calculus AB & BC
 <br>
 Adaptive explanations and guided practice
 </p>
