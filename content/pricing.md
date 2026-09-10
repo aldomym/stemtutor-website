@@ -1,5 +1,5 @@
 ---
-title: "Tutoring Rates"
+title: "Hourly Tutoring Rates"
 description: "Pricing for one-on-one online physics and math tutoring."
 ---
 
