@@ -44,7 +44,10 @@ Adaptive explanations and guided practice
     <div class="card h-100">
       <div class="card-body">
         <h3 class="card-title" style="color:red;">Read before requesting - No free trials!</h3>
-        <p class="card-text">I don’t offer free trials, demos, or sample lessons. Any instruction I provide, including an introductory or “test” session, counts as a first tutoring lesson and will be charged accordingly.</p>
+        <p class="card-text">I don’t offer free trials, demos, or sample lessons. Any instruction I provide, including an introductory or “test” session, counts as a first tutoring lesson and will be charged accordingly.
+        <br>
+          By requesting a tutoring lesson, you agree to the <a href="https://docs.google.com/document/d/1_KzsGGmILURDHC85MrZ7ANPeeUD4VPLj/edit?usp=sharing&ouid=115946510237731495799&rtpof=true&sd=true">Terms and Conditions<a>
+        </p>
       </div>
     </div>
   </div>
