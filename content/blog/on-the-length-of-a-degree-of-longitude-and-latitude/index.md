@@ -40,10 +40,10 @@ While the the arc length of a parallel becomes
 $$s_{long}(\phi)=\frac{\pi R \cos \phi}{180\sqrt{1-e^2\sin^2\phi}}$$
 Practice problems
 
-## For problems 1-4, assume the Earth is a perfect sphere.
-
-    I start in Acapulco, Mexico and walk 5500 km in a straight line in the north direction. Where am I now? Assume the Earth is a perfect sphere.
-    I start walking in Bangkok, Thailand and walk 6000 km in a straight line northwards. Where I end up after this journey?
-    A man begins walking from Nantes, France, and finds out he is 1700 km away from his starting point. Where is he now?
-    A person begins walking 5000 km eastward from Baghdad, Iraq. Where is he now?
-    Retry problems 1-4, but now assuming the Earth is an ellipsoid. How much the results differ?
+## Practice problems
+For problems 1-4, assume the Earth is a perfect sphere.
+1. I start in Acapulco, Mexico and walk 5500 km in a straight line in the north direction. Where am I now? Assume the Earth is a perfect sphere.
+2. I start walking in Bangkok, Thailand and walk 6000 km in a straight line northwards. Where I end up after this journey?
+3. A man begins walking from Nantes, France, and finds out he is 1700 km away from his starting point. Where is he now?
+4. A person begins walking 5000 km eastward from Baghdad, Iraq. Where is he now?
+5. Retry problems 1-4, but now assuming the Earth is an ellipsoid. How much the results differ?
