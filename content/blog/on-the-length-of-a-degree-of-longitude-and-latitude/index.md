@@ -9,8 +9,7 @@ params:
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
-How long is a degree of latitude? How long is a degree of longitude? These are questions someone may have asked when reading about longitude and latitude. With the help of spherical geometry, these questions can be answe
-red.
+How long is a degree of latitude? How long is a degree of longitude? These are questions someone may have asked when reading about longitude and latitude. With the help of spherical geometry, these questions can be answered.
 
 ## Length of a degree of latitude (modeling the Earth as a perfect sphere)
 
