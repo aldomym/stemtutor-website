@@ -9,7 +9,7 @@ params:
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
-How long is a degree of latitude? How long is a degree of longitude? This are questions someone may have asked when reading about longitude and latitude. With the help of spherical geometry, these questions can be answe
+How long is a degree of latitude? How long is a degree of longitude? These are questions someone may have asked when reading about longitude and latitude. With the help of spherical geometry, these questions can be answe
 red.
 
 ## Length of a degree of latitude (modeling the Earth as a perfect sphere)
@@ -23,7 +23,7 @@ where R is the Radius of Earth. Therefore, we can find the length of a degree of
 
 ## Length of a degree of longitude (modeling the Earth as a perfect sphere)
 
-This case is more complicated than the previous one. In these case, we're talking about the case where we are considering a line consisting of points all sharing the same latitude but with different longitudes. In geography, this is often called a parallel. From this figure:
+This case is more complicated than the previous one. In this case, we're talking about the case where we are considering a line consisting of points all sharing the same latitude but with different longitudes. In geography, this is often called a parallel. From this figure:
 <img src="cutaway-drawing-latitude-place-longitude-sizes-angles-297073170.jpg" alt="Line of latitude" width="300" height="320">
 <br>
 the reader may verify that the radius of the a parallel is given by the formula
