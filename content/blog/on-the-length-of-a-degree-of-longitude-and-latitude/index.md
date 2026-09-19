@@ -15,15 +15,15 @@ red.
 ## Length of a degree of latitude (modeling the Earth as a perfect sphere)
 
 Let's imagine, on a sphere, a line of longitude. Meaning, a set of points all having the same longitude with varying latitudes. In geography, this is often called a meridian. So we can use the following illustration to make this derivation:
-
+<img src="Perspective-globe-grid-parallels-meridians-longitude-latitude-2642766530.jpg" alt="Meridian" width="370" height="400">
 From this, it's easy to see that the formula for the length of an arc of a circle applies:
 $$s=R\phi\frac{\pi}{180}$$
 where R is the Radius of Earth. Therefore, we can find the length of a degree of latitude by simply making an elementary multiplication.
 
-##Length of a degree of longitude (modeling the Earth as a perfect sphere)
+## Length of a degree of longitude (modeling the Earth as a perfect sphere)
 
 This case is more complicated than the previous one. In these case, we're talking about the case where we are considering a line consisting of points all sharing the same latitude but with different longitudes. In geography, this is often called a parallel. From this figure:
-
+<img src="cutaway-drawing-latitude-place-longitude-sizes-angles-297073170.jpg" alt="Line of latitude" width="300" height="320">
 the reader may verify that the radius of the a parallel is given by the formula
 $$a=R\cos \phi$$
 
