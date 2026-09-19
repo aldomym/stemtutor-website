@@ -18,7 +18,7 @@ AP Calculus AB & BC
 <br>
 Adaptive explanations and guided practice
 </p>
-        <a href="https://calendly.com/aldon2004/new-meeting" class="btn btn-primary">Request this session</a>
+        <a href="https://calendly.com/aldon2004/new-meeting" class="btn btn-primary">Book this session</a>
       </div>
     </div>
   </div>
@@ -36,7 +36,7 @@ Computational Physics
 <br>
 Adaptive explanations and guided practice
 </p>
-        <a href="https://calendly.com/aldon2004/new-meeting" class="btn btn-primary">Request this session</a>
+        <a href="https://calendly.com/aldon2004/new-meeting" class="btn btn-primary">Book this session</a>
       </div>
     </div>
   </div>
