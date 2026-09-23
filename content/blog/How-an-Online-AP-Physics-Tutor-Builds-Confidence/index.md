@@ -58,7 +58,7 @@ Subject depth matters. AP Physics students need a tutor who understands more tha
 
 Teaching experience matters too. Knowing physics and teaching physics are related but different skills. A capable tutor recognizes common misconceptions, breaks complicated work into manageable steps, and changes the explanation when the first approach does not connect. Patience is not simply being friendly. It is being willing to examine the same concept from another angle until it becomes clear.
 
-It is reasonable for families to ask about [relevant education, experience](https://smartstemtutor.site/cv/) with AP or IB coursework, and how sessions are structured. They should also ask what happens between lessons. A tutor may assign a small set of focused practice problems, recommend a way to review notes, or create a plan for an upcoming assessment. The goal is not to create dependence on tutoring. It is to help the student become increasingly self-sufficient.
+It is reasonable for families to ask about relevant education, experience with AP coursework, and how sessions are structured. They should also ask what happens between lessons. A tutor may assign a small set of focused practice problems, recommend a way to review notes, or create a plan for an upcoming assessment. The goal is not to create dependence on tutoring. It is to help the student become increasingly self-sufficient.
 
 At Smart STEM Tutor, one-on-one online instruction draws on more than four years of teaching experience and over 1,500 tutoring hours with American and Canadian students. Sessions are designed around clear, step-by-step explanations, whether a student needs help with an immediate assignment or a stronger foundation for the rest of the course.
 
