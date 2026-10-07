@@ -1,3 +1,10 @@
+---
+title: "What a Physics Tutor Should Help You Learn"
+date: 2026-10-06
+draft: false
+params:
+  math: true
+---
 A difficult physics problem can look impossible for a surprisingly small reason: one missing connection. Perhaps the diagram does not match the equation, the direction of a force is unclear, or a student can calculate velocity but does not yet see what velocity means in a real situation. A good physics tutor does more than supply an answer. They help students find that missing connection, then build a method they can use again on the next problem.
 
 Physics is demanding because it asks students to work in several languages at once. They must read carefully, visualize motion or forces, use mathematics accurately, choose a model, and explain the result. When one part feels shaky, homework can become slow and discouraging. Patient, individualized instruction can make the course feel structured again.
