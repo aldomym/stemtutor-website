@@ -1,6 +1,6 @@
 ---
-title: "Choosing an Online Calculus Tutor for College"
-date: 2026-09-24
+title: "What a Physics Tutor Should Help You Learn"
+date: 2026-10-06
 draft: false
 params:
   math: true
